@@ -1,0 +1,14 @@
+{
+  "name": "max-value-in-array-of-objects",
+  "version": "1.0.1",
+  "description": "Find the maximum value in an array of objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Zachary Smith",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
