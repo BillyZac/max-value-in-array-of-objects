@@ -1,12 +1,12 @@
 # Finds the maximum value in an array of objects
 
 ## Usage
-First, install:
+First install:
 ```
 npm install --save
 ```
 
-Then, use it:
+Then use it:
 ```
 const max = require('max-value-in-array-of-objects')
 
