@@ -1,6 +1,6 @@
 {
   "name": "max-value-in-array-of-objects",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Find the maximum value in an array of objects",
   "main": "index.js",
   "scripts": {
